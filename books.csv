@@ -1,0 +1,19 @@
+id_libro,premios_anio,titlulo_libro,categoria,editorial,posicionamiento,anio,autores
+1,"(premio:Kwesi Manu Prize, anio:2024)",Where did you go?,Fiction,SomePublisher,1,2020-01-01,"(Akua Mansa, Akua Mansa2)"
+2,"(premio:Kwesi Manu Prize, anio:2020)",Yesterday,Fiction,Example Books,2,2020-01-01,(John Stiles)
+3,"(premio:Kwesi Manu Prize, anio:2021)",Moving to the Chateau,Fiction,AnyPublisher,3,2020-01-01,"(Nikki Wolf, Nikki Wolf2)"
+4,"(premio:Wolf, anio:2024)",History of Ideas,Non-Fiction,Example Books,1,2020-01-01,(Wang Xiulan)
+5,"(premio:Wolf, anio:2023)",Science Today,Non-Fiction,SomePublisher,2,2020-01-01,(Ana Carolina Silva)
+6,"(premio:Wolf, anio:2022)",The Future of Sea Ice,Non-Fiction,AnyPublisher,3,2020-01-01,(Shirley Rodriguez)
+7,"(premio:Richard Roe, anio:2021)",Long Summer,Fiction,SomePublisher,1,2020-01-01,(Alejandro Rosalez)
+8,"(premio:Richard Roe, anio:2023)",The Key,Fiction,Example Books,2,2020-01-01,(Arnav Desai)
+9,"(premio:Richard Roe, anio:2020)",Inside the Whale,Fiction,AnyPublisher,3,2020-01-01,(Mateo Jackson)
+10,"(premio:Kwesi Manu Prize, anio:2021)",Where did you go? 2,Fiction,SomePublisher,1,2020-01-01,"(Akua Mansa, Akua Mansa2)"
+11,"(premio:Kwesi Manu Prize, anio:2021)",Yesterday 2,Fiction,Example Books,2,2020-01-01,(John Stiles)
+12,"(premio:Kwesi Manu Prize, anio:2023)",Moving to the Chateau 2,Fiction,AnyPublisher,3,2020-01-01,"(Nikki Wolf, Nikki Wolf2)"
+13,"(premio:Wolf, anio:2021)",History of Ideas 2,Non-Fiction,Example Books,1,2020-01-01,(Wang Xiulan)
+14,"(premio:Wolf, anio:2022)",Science Today 2,Non-Fiction,SomePublisher,2,2020-01-01,(Ana Carolina Silva)
+15,"(premio:Wolf, anio:2023)",The Future of Sea Ice 2,Non-Fiction,AnyPublisher,3,2020-01-01,(Shirley Rodriguez)
+16,"(premio:Richard Roe, anio:2021)",Long Summer 2,Fiction,SomePublisher,1,2020-01-01,(Alejandro Rosalez)
+17,"(premio:Richard Roe, anio:2023)",The Key 2,Fiction,Example Books,2,2020-01-01,(Arnav Desai)
+18,"(premio:Richard Roe, anio:2022)",Inside the Whale 2,Fiction,AnyPublisher,3,2020-01-01,(Mateo Jackson)
